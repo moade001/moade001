@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @moade001
+- 👋 Hi, I’m mohamed adel
 - 👀 I’m interested in tech 
-- 🌱 I’m currently learning C++
+- c++ done
+- c# done
+- .net in progress 
 - 💞️ I’m looking to collaborate on anything about CS
 - 📫 How to reach me on my insta @mohamedad__
 
